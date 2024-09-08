@@ -6,6 +6,7 @@ public class Even{
 		for(num=1;num<=20;num++) {
 			if(num % 2== 0) {
 				System.out.print(num+" ");
+				System.out.print("Hello World");
 			}
 		}
 
